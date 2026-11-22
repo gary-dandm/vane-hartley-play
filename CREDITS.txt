@@ -1,0 +1,1446 @@
+Vane & Hartley: Spectral Investigations uses art, sound and type by others, under the licences below.
+
+=================== assets/lpc/CREDITS.txt
+
+LPC Revised (github.com/ElizaWy/LPC). Files here are copies, renamed. Original credits follow, per source folder.
+
+=== Structure/Wall Borders/Credits.txt
+
+Decorative Border A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Formal Crown Molding
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Pillar Crown Molding
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Plain Edged Border
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+
+Plain Smooth Border
+-------------------
+  ARTIST(S): Eliza Wyatt
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Textured Wood Border
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Expanded for tiling and recolored by Eliza Wyatt.
+=== Structure/Walls/Credits.txt
+
+
+Adobe Brick Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Adobe Stucco Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Brick Wall A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Extracted from Brick Wall Block Edging, by Lanea Zimmerman. Reconfigured and recolored by Eliza Wyatt.
+
+Brick Wall B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Brick Wall Block Edging
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Cutaway Overlay
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Diamond Wallpaper
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Drywall
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Floral Wallpaper A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Floral Wallpaper B
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Grainy Plain Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Half-Wall Paneling A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Jagged Stone Walls
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Molding
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Painted Walls
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Panels A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Siding, Plain
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Striped Wallpaper A
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Striped Wallpaper B
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Striped Wallpaper C
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+=== Structure/Floor/Credits.txt
+
+Diamond Tile A
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Diamond Tile B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Diamond Tile C
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Floral Carpet A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Floral Carpet B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Geometric Carpet A
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Geometric Carpet B
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Gritty Dirt
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Herringbone
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Subfloor
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Tile A
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Tile B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Tile C
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt
+
+Wood Floor A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Edits and recolors by Eliza Wyatt.
+
+Wood Floor B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Edits and recolors by Eliza Wyatt.
+
+=== Structure/Windows/Credits.txt
+
+
+Ornamental Windows A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Blue and yellow glow and emission map by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Ornamental Windows B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Blue and yellow glow and emission map by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Stone Windows A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Blue and yellow glow and emission map by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Window Awnings A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-adobe-building-set
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+=== Structure/Doors/Credits.txt
+
+12-Panel Door, 15-Panel Door
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-animated-doors
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original design and animation by Lanea Zimmerman. Converted to 15 panel door by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Doorframe A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original doorframe by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
+
+Doorframe B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original doorway by Lanea Zimmerman. Recolors and adjustments by Eliza Wyatt.
+
+Prison Door
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-animated-doors
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original design and animation by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Arched Doorway A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Arched Double Doors
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original door design by Lanea Zimmerman. Opening Animation by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+=== Objects/Furniture/Credits.txt
+
+
+Barrel
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Bin
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Cabinet
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Cauldron
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Chest
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original large chests by Lanea Zimmerman. Smaller chests and recolors by Eliza Wyatt.
+
+Christmas Tree
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original tree by Lanea Zimmerman. Recolors, animation, and festive cheer by Eliza Wyatt.
+
+Clock, Grandfather
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors and animation by Eliza Wyatt.
+
+Copy Machine
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Countertop
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Crate
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Desk, Office
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Row 1: Desk made by Eliza Wyatt, using elements from Lanea Zimmerman's cabinets and countertops.
+	Row 2+: Original by Eliza Wyatt
+
+Desk, Vanity
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Dresser
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Dresser made by Eliza Wyatt, using elements from Lanea Zimmerman's cabinets.
+
+End Table
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Fireplace, Cast Iron
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original design and fire animation by Lanea Zimmerman. Fire reflections and recolors by Eliza Wyatt. Stovetop burners by Eliza Wyatt.
+
+Fireplace
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Row 1: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+	Row 2: Original by Eliza Wyatt.
+
+Fridge
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Ladder
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Lighting, Floor
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Top Row: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+	Row 2+: Original by Eliza Wyatt.
+
+Lighting, Outdoors
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt. Inactive version added by Eliza Wyatt.
+
+Mirror, Standing
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Oven, Modern
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Planter
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
+
+Sawhorse
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Shading edits and recolors by Eliza Wyatt.
+
+Shavehorse
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Structural edits and recolors by Eliza Wyatt.
+
+Shelf
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Sink, Countertop
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Top Row: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+	Row 2: Made by Eliza Wyatt, using elements of Lanea Zimmerman's sink.
+
+Sink, Pedestal
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Standing Screen
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Top Row: Original by Lanea Zimmerman and BlueCarrot16. Recolors by Eliza Wyatt.
+	Second Row: Original by Eliza Wyatt.
+
+Stone Slabs
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+Tables, Card
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Tables, Ornate Wood
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Tables, Rough Wood
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Tables, Workshop
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.
+
+Trough
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling), YuriNikolai
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  SOURCE: https://opengameart.org/content/lpc-troughs-expanded
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot. Edited and recolored by Eliza Wyatt. Empty trough added by YuriNikolai.
+
+Tv, Widescreen; Tv, Widescreen - No Service display
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Vase Studies
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Vending Machine
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Water Cooler
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Wolf Stone
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Workbench, Carpentry
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-woodshop
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Recolors by Eliza Wyatt.
+
+Workbench, Wire Drawing
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+=== Objects/Furniture/Seating/Credits.txt
+
+Bar Stools
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Chair, Dining (all)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Recolors by Eliza Wyatt. Altered to accomodate sitting LPC character by Eliza Wyatt.
+
+Chair, Office
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Chair, Sofa (all)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Recolors by Eliza Wyatt. Altered to accomodate sitting LPC character by Eliza Wyatt.
+
+Loveseat, Casual (all)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Side and back views by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Loveseat, Formal (all)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Sofa with arms added by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Ottoman (all)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Wide ottoman side view by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Sofa Set, Casual
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Thrones
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original front view by Lanea Zimmerman. Side and back views by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+=== Objects/Furniture/Rugs/Credits.txt
+
+Diamond Rug
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Rainbow Checkered Rug
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Rainbow Rug
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Swirling Vine
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+=== Objects/Wall Items/Credits.txt
+
+
+Christmas Wall Decor
+----------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Curtains
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Expanded and recolored by Eliza Wyatt.
+
+
+Graffiti & Graffiti Elements
+-------------------
+  ARTIST(S): Craftpix.net 2D Game Assets
+  SOURCE: https://opengameart.org/content/graffiti-constructor
+  LICENSE: OGA-by 3.0
+  DETAILS: Original by Craftpix.net
+
+
+Lighting, Wall
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Top Row: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+	Second Row: Original by Eliza Wyatt.
+
+
+Mailboxes (tiling)
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Mirrors
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Paintings, Abstract
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Paintings, Landscape
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  Details:
+ 	Original by Lanea Zimmerman, edited and recolored by Eliza Wyatt:
+	 - Mountain Landscape
+	Original by Eliza Wyatt:
+	 - Tree by River
+	 - Sailboat at Sunset
+	 - Starry Docks
+	 - Beachscape
+	 - Arid Farm Landscape
+	 - Great Wave Off Kanagawa study
+
+Paintings, Portraits
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  Details:
+ 	Original by Lanea Zimmerman, edited and recolored by Eliza Wyatt:
+	 - King's Portrait
+	 - Woman's Small Portrait
+	Original by Eliza Wyatt:
+	 - Queen's Portrait
+	 - Knight's Portrait
+	 - Man's Small Portrait
+	 - Girl with the Pearl Earring study
+
+Paintings, Still Life
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Posters
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+
+Pride Flags
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+=== Objects/Furniture/Beds/Credits.txt
+
+
+Children's Beds
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Children's Headboards
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Resizes and Recolors by Eliza Wyatt.
+
+Children's Mattresses
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original mattresses by Eliza Wyatt. Pillows by Lanea Zimmerman and BlueCarrot16, edited and recolored by Eliza Wyatt.
+
+Double Beds
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Double Headboards
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Resizes and Recolors by Eliza Wyatt.
+
+Double Mattresses
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original mattresses by Eliza Wyatt. Pillows by Lanea Zimmerman and BlueCarrot16, edited and recolored by Eliza Wyatt.
+
+
+Single Beds A
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Single Beds B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman and BlueCarrot16. Adjustments and recolors by Eliza Wyatt.
+
+Single Headboards
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Resizes and Recolors by Eliza Wyatt.
+
+Single Mattresses
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm), BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original mattresses by Eliza Wyatt. Pillows by Lanea Zimmerman and BlueCarrot16, edited and recolored by Eliza Wyatt.
+
+=== Structure/Stairs/Credits.txt
+
+Wood Interior Stairs B (stairs_wood.png)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+=== Older LPC sheets (2012 Liberated Pixel Cup and later submissions), not LPC Revised
+
+beds_single.png (child beds)
+-------------------
+  ARTIST(S): Janna
+  SOURCE: "House Objects 1 Revised", LPC Submissions Merged 2.0
+  LICENSE: CC0
+
+fire_animated.png (fireplace flames)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: "Castle Interior" animations, LPC Submissions Merged 2.0
+  LICENSE: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0
+
+candles_fire.png (candles, candelabra)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Curt
+  SOURCE: "Animated water and fire", LPC Submissions Merged 2.0
+  LICENSE: CC-BY-SA 3.0 / GPL 3.0
+
+cobweb.png (cut from the Interior sheet)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), commissioned by William Thompsonj
+  SOURCE: "Interior", LPC Submissions Merged 2.0
+  LICENSE: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0
+
+floors_lpc.png (rugs, kitchen and bathroom tiles, floor cracks and stains)
+-------------------
+  "[LPC] Floors" by bluecarrot16, Lanea Zimmerman (Sharm), William Thompson (William.Thompsonj),
+  Hyptosis, SpiderDave, Cougarmint, Stephen Challener (Redshrike), Bonsaiheldin, Tyler Olsen
+  (Roots), Jetrel, jestan, The Open Surge team (http://opensnc.sourceforge.net), Gaurav Munjal,
+  Reemax, Silveira Neto, bleutailfly, Casper Nilsson, NaRNeRZz, Buch, keith karnage, Arthur
+  Carvalho, Guilherme Vieira (n2liquid), Chris Hamons (maintainer).
+  LICENSE: CC-BY-SA 4.0
+  The pack's full list of sources is in its CREDITS-floors.txt; copied below.
+
+upholstery.png (sofa, folding screen)
+-------------------
+  "[LPC] Upholstery" by bluecarrot16, Lanea Zimmerman (Sharm).
+  SOURCE: https://opengameart.org/content/lpc-upholstery
+  LICENSE: CC-BY-SA 3.0 / GPL 3.0 (check the page before a shared build: the file came without its credits)
+  Based on:
+  
+  Liberated Pixel Cup (LPC) Base Assets (sprites & map tiles)
+  Lanea Zimmerman (Sharm)
+  CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0
+  http://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  
+  [LPC] Arabic Elements
+  Lanea Zimmerman (Sharm), commissioned by William Thompson (William.Thompsonj)
+  CC-BY 4.0 / CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0
+  https://opengameart.org/content/lpc-arabic-elements
+  
+  LPC: Interior Castle Tiles
+  Lanea Zimmerman (Sharm)
+  CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / OGA-BY 3.0
+  https://opengameart.org/content/lpc-interior-castle-tiles
+  
+  Lots of free 2d tiles and sprites by Hyptosis
+  Hyptosis
+  CC-BY 3.0
+  https://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis
+  
+  Wallpaper pattern tiles
+  SpiderDave
+  CC0
+  https://opengameart.org/content/wallpaper-pattern-tiles
+  
+  Wallpaper pattern tiles
+  SpiderDave
+  CC0
+  https://opengameart.org/content/wallpaper-pattern-tiles-0
+  
+  Patterns and Cursors
+  Cougarmint
+  CC0
+  https://opengameart.org/content/patterns-and-cursors
+  
+  Patterns and Cursors II
+  Cougarmint
+  CC0
+  https://opengameart.org/content/patterns-and-cursors-ii
+  
+  RPG Indoor Tileset: Expansion 1
+  Redshrike
+  CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0
+  https://opengameart.org/content/rpg-indoor-tileset-expansion-1
+  
+  Interior Tileset 16x16
+  Bonsaiheldin
+  CC-BY-SA 3.0
+  https://opengameart.org/content/interior-tileset-16x16
+  
+  Stone Home Interior Tileset
+  Tyler Olsen (Roots), Jetrel
+  CC-BY-SA 3.0
+  https://opengameart.org/content/stone-home-interior-tileset
+  
+  Pixel Texture Pack
+  jestan
+  CC-BY 4.0 / CC-BY 3.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0
+  https://opengameart.org/content/pixel-texture-pack
+  
+  32x32 (and 16x16) RPG Tiles--Forest and some Interior Tiles
+  Stephen Challener (Redshrike) and the Open Surge team (http://opensnc.sourceforge.net) commissioned by Gaurav Munjal
+  CC-BY 3.0
+  https://opengameart.org/content/32x32-and-16x16-rpg-tiles-forest-and-some-interior-tiles
+  
+  [LPC] House interior and decorations
+  Reemax
+  CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0
+  https://opengameart.org/content/lpc-house-interior-and-decorations
+  
+  OpenPixels:Characters & Tilesets -Silveira Neto
+  Silveira Neto
+  CC-BY-SA 3.0
+  https://opengameart.org/content/openpixelscharacters-tilesets-silveira-neto
+  
+  walls and stuff
+  bleutailfly
+  CC-BY-SA 3.0
+  https://opengameart.org/content/walls-and-stuff
+  
+  LPC C.Nilsson
+  Casper Nilsson
+  CC-BY-SA 3.0 / GPL 3.0
+  https://opengameart.org/content/lpc-cnilsson
+  
+  Adventure Tileset (Unfinished)
+  NaRNeRZz
+  CC0
+  https://opengameart.org/content/adventure-tileset-unfinished
+  
+  Outdoor 32x32 tileset
+  Buch
+  CC0
+  https://opengameart.org/content/outdoor-32x32-tileset
+  
+  Medieval town
+  keith karnage
+  CC-BY 3.0
+  https://opengameart.org/content/medieval-town-0
+  
+  Exterior 32x32 Town tileset
+  Arthur Carvalho, copyright Guilherme Vieira (n2liquid)
+  CC-BY-SA 4.0
+  https://opengameart.org/content/town-tileset-exterior-32x32
+  
+  Dungeon Crawl 32x32 tiles
+  Chris Hamons (maintainer)
+  CC0
+  https://opengameart.org/content/dungeon-crawl-32x32-tiles
+curios.png (the objects: Source and decoys; cut by tools/cut_curios.py)
+-------------------
+  Bracket clock (3 frames), portrait, vase of flowers: cut from the "Interior" sheet,
+    LPC Submissions Merged 2.0. Portrait painting and flower vases: Lanea Zimmerman (Sharm).
+    The bracket clock follows Sharm's animated grandfather clock; the sheet's attribution file
+    lists some pieces in that area as unattributed, so check it before a shared build.
+    LICENSE: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0
+  Covered urn: Tuomo Untinen ("Pots with cover", based on Sharm's pots), "Interior" sheet,
+    LPC Submissions Merged 2.0. LICENSE: CC-BY 3.0
+  Chest: Tuomo Untinen, "items1", LPC Submissions Merged 2.0. LICENSE: CC-BY 3.0
+
+=================== assets/characters/CREDITS.csv
+
+character,file,authors,licenses,urls
+edith_vane,body/bodies/male,bluecarrot16; JaidynReiman; Benjamin K. Smith (BenCreating); Evert; Eliza Wyatt (ElizaWy); TheraHedwig; MuffinElZangano; Durrani; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases
+edith_vane,body/bodies/female,Benjamin K. Smith (BenCreating); bluecarrot16; TheraHedwig; Evert; MuffinElZangano; Durrani; Pierre Vigier (pvigier); ElizaWy; Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-revised-character-basics https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+edith_vane,body/bodies/muscular,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Sander Frenken (castelonia); Benjamin K. Smith (BenCreating); Eliza Wyatt (ElizaWy); dalonedrau; Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-barbarian-sprite-base https://opengameart.org/content/lpc-muscular-swing-animation https://opengameart.org/content/lpc-muscular-hurt-animation https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+edith_vane,body/bodies/teen,bluecarrot16; Evert; TheraHedwig; Benjamin K. Smith (BenCreating); MuffinElZangano; Durrani; Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-teen-unisex-base-clothes https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded
+edith_vane,body/bodies/pregnant,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Benjamin K. Smith (BenCreating); Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+edith_vane,body/bodies/child,bluecarrot16; Benjamin K. Smith (BenCreating); ElizaWy; MuffinElZangano; Durrani; Nila122; kheftel; Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-child-standing-template https://opengameart.org/content/lpc-children-walk-animation https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-jump-expanded
+edith_vane,head/heads/human/female,bluecarrot16; Benjamin K. Smith (BenCreating); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/ https://opengameart.org/content/lpc-character-bases
+edith_vane,hair/bangs_bun,ElizaWy; bluecarrot16,CC0,https://opengameart.org/content/lpc-hair https://github.com/ElizaWy/LPC/blob/main/Characters/Hair https://opengameart.org/content/lpc-expanded-sit-run-jump-more
+edith_vane,torso/clothes/blouse_longsleeve,bluecarrot16; ElizaWy; Lanea Zimmerman (Sharm),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-7-womens-shirts
+edith_vane,legs/skirts/straight,bluecarrot16; ElizaWy,OGA-BY 3.0; GPL 3.0,http://opengameart.org/content/lpc-clothing-updates
+edith_vane,feet/shoes,JaidynReiman; bluecarrot16; Johannes Sjölund (wulax),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites http://opengameart.org/content/lpc-clothing-updates https://opengameart.org/content/lpc-expanded-socks-shoes
+edith_vane,feet/shoes/basic/thin,JaidynReiman; Joe White; Johannes Sjölund (wulax),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites http://opengameart.org/content/lpc-clothing-updates https://opengameart.org/content/lpc-expanded-socks-shoes
+edith_vane,weapon/sword/rapier,Johannes Sjölund (wulax); bluecarrot16,OGA-BY 3.0; CC-BY-SA 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-extended-weapon-animations
+tobias_rook,body/bodies/male,bluecarrot16; JaidynReiman; Benjamin K. Smith (BenCreating); Evert; Eliza Wyatt (ElizaWy); TheraHedwig; MuffinElZangano; Durrani; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases
+tobias_rook,body/bodies/female,Benjamin K. Smith (BenCreating); bluecarrot16; TheraHedwig; Evert; MuffinElZangano; Durrani; Pierre Vigier (pvigier); ElizaWy; Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-revised-character-basics https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+tobias_rook,body/bodies/muscular,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Sander Frenken (castelonia); Benjamin K. Smith (BenCreating); Eliza Wyatt (ElizaWy); dalonedrau; Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-barbarian-sprite-base https://opengameart.org/content/lpc-muscular-swing-animation https://opengameart.org/content/lpc-muscular-hurt-animation https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+tobias_rook,body/bodies/teen,bluecarrot16; Evert; TheraHedwig; Benjamin K. Smith (BenCreating); MuffinElZangano; Durrani; Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-teen-unisex-base-clothes https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded
+tobias_rook,body/bodies/pregnant,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Benjamin K. Smith (BenCreating); Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+tobias_rook,body/bodies/child,bluecarrot16; Benjamin K. Smith (BenCreating); ElizaWy; MuffinElZangano; Durrani; Nila122; kheftel; Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-child-standing-template https://opengameart.org/content/lpc-children-walk-animation https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-jump-expanded
+tobias_rook,head/heads/human/male,bluecarrot16; Benjamin K. Smith (BenCreating); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-character-bases
+tobias_rook,hair/parted,JaidynReiman; Joe White; Manuel Riecke (MrBeast),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24 https://opengameart.org/content/lpc-expanded-hair
+tobias_rook,torso/clothes/longsleeve/formal,bluecarrot16; Thane Brimhall (pennomi); laetissima; Stephen Challener (Redshrike); Johannes Sjölund (wulax),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman
+tobias_rook,legs/formal,bluecarrot16; JaidynReiman; ElizaWy; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman https://opengameart.org/content/lpc-expanded-pants
+tobias_rook,legs/formal/thin,bluecarrot16; JaidynReiman; ElizaWy; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman https://opengameart.org/content/lpc-expanded-pants
+tobias_rook,feet/shoes,JaidynReiman; bluecarrot16; Johannes Sjölund (wulax),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites http://opengameart.org/content/lpc-clothing-updates https://opengameart.org/content/lpc-expanded-socks-shoes
+tobias_rook,feet/shoes/basic/thin,JaidynReiman; Joe White; Johannes Sjölund (wulax),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites http://opengameart.org/content/lpc-clothing-updates https://opengameart.org/content/lpc-expanded-socks-shoes
+tobias_rook,torso/clothes/vest,bluecarrot16; Thane Brimhall (pennomi); laetissima; Stephen Challener (Redshrike); Johannes Sjölund (wulax),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman https://opengameart.org/content/lpc-pirates
+tobias_rook,torso/clothes/vest/male/gray_striped.png,Michael Whitlock (bigbeargames); bluecarrot16; Thane Brimhall (pennomi); laetissima,CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters
+tobias_rook,torso/clothes/vest/male/gray.png,Michael Whitlock (bigbeargames); bluecarrot16; Thane Brimhall (pennomi); laetissima,CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters
+tobias_rook,torso/jacket/frock,bluecarrot16,CC-BY-SA 3.0,https://opengameart.org/content/lpc-pirates
+tobias_rook,neck/tie/necktie,JaidynReiman; bluecarrot16; Thane Brimhall (pennomi); laetissima; Makrohn,CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman
+tobias_rook,weapon/sword/rapier,Johannes Sjölund (wulax); bluecarrot16,OGA-BY 3.0; CC-BY-SA 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-extended-weapon-animations
+ghost_zombie,body/bodies/zombie,Stephen Challener (Redshrike); Johannes Sjölund (wulax); Sander Frenken (castelonia); Benjamin K. Smith (BenCreating); bluecarrot16,OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-zombie https://opengameart.org/content/lpc-character-bases
+ghost_zombie,head/heads/zombie,bluecarrot16; Benjamin K. Smith (BenCreating); Sander Frenken (castelonia); Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-zombie https://opengameart.org/content/lpc-character-bases
+ghost_skeleton,body/bodies/skeleton,bluecarrot16; Napsio; JaidynReiman; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-skeleton https://opengameart.org/content/lpc-character-bases
+ghost_skeleton,head/heads/skeleton,bluecarrot16; Napsio; JaidynReiman; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-skeleton https://opengameart.org/content/lpc-character-bases
+
+=================== assets/sound/CREDITS.txt
+
+Sounds. Credits per source.
+
+kenney/rpg-audio, kenney/impact-sounds, kenney/interface-sounds
+-------------------
+  ARTIST(S): Kenney (www.kenney.nl): "RPG Audio", "Impact Sounds", "Interface Sounds"
+  LICENSE: CC0 (no credit required; credited anyway)
+
+made/ (fire_loop.wav, heartbeat.wav)
+-------------------
+  Made for this game by tools/make_sounds.py. No licence to track.
+
+littlerobot/ (breaths, laughs, win and lose jingles)
+-------------------
+  ARTIST(S): Little Robot Sound Factory, "Horror Sound Effects Library" (OpenGameArt)
+  LICENSE: CC-BY 3.0 (as listed on OpenGameArt; confirm on the page before a shared build)
+  NOTE: credit the name only. The author's website link is reported to have been taken over.
+
+qubodup/ (ghost moans)
+-------------------
+  ARTIST(S): qubodup (Iwan Gabovitch), "Ghost Moans" (OpenGameArt)
+  LICENSE: not yet confirmed (qubodup's packs are usually CC0 or CC-BY 3.0): check the page.
+
+whispers/ (six short whispers), laughs/ (one laugh)
+-------------------
+  Generated by the project owner with an AI sound generator (2026-11-22), levelled by
+  tools/import_sounds.py. Before any shared build, check that generator's terms for the plan
+  used: some free plans ask for a credit to the generator.
+
+=================== assets/brand/fonts/OFL-IMFellEnglishSC.txt
+
+Copyright (c) 2010, Igino Marini (mail@iginomarini.com)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+=================== assets/brand/fonts/OFL-PlayfairDisplay.txt
+
+Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+=================== assets/brand/fonts/OFL-Spectral.txt
+
+Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
