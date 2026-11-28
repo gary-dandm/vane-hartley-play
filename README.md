@@ -20,7 +20,9 @@ house, and seal it.
 | E | use what is in reach (open, read, try a door) |
 | E (hold) | on an object: focus on it (Tobias), or listen to it (Edith) |
 | X / Space | draw or sheathe the rapier / swing it |
-| F (tap) | throw salt: a ring the ghost can't cross for a while |
+| 1-4 | pick a pocket (Edith has 2, Tobias 4); each holds one handful of salt |
+| E at the bag | by the door: open it, then E fills empty pockets, Esc closes (the house carries on) |
+| F (tap) | salt from that pocket: a ring the ghost can't cross for a while |
 | F (hold + walk) | pour a line of salt it can't cross until someone walks over it |
 | Q | lamps down or up |
 | C | the case file (C again turns the page) |

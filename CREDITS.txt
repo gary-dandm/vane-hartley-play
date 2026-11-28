@@ -924,6 +924,188 @@ Wood Interior Stairs B (stairs_wood.png)
   LICENSE: OGA-BY 3.0
   DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
 
+Marble stairs with iron rails (stairs_marble.png)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: LPC Revised (github.com/ElizaWy/LPC), Structure/Stairs; same layout as Wood Interior Stairs B.
+  LICENSE: OGA-BY 3.0
+  NOTE: the user's download (stairs.png) came without its credits line: check the repo's
+  Structure/Stairs/Credits.txt before a shared build.
+
+
+=== LPC Revised pieces added 2026-11-24 (github.com/ElizaWy/LPC). Sheets copied whole.
+Credits already recorded above, from the source Credits.txt copied in full, cover:
+barrel.png (Barrel), cauldron.png (Cauldron), chest.png (Chest), crate.png (Crate),
+end_table.png (End Table), range_iron.png (Fireplace, Cast Iron), ladder.png (Ladder),
+lamps_outdoor.png (Lighting, Outdoors), table_rough.png and vases.png (Tables, Rough Wood; Vase Studies),
+thrones.png (Thrones), mirrors.png (Mirrors), paintings_still.png (Paintings, Still Life),
+door_panel15.png and door_prison.png and door_arched.png (12-Panel Door, 15-Panel Door; Prison Door; Arched Double Doors),
+windows_stone.png (Stone Windows A).
+
+The pieces below were not in those files:
+
+=== Objects/Furniture/Sewing & Weaving/Credits.txt
+(dress_form.png, spinning_wheel.png)
+
+Dress Forms
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Edited and recolored by Eliza Wyatt.
+
+Spinning Wheel
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Recolored by Eliza Wyatt.
+
+=== Objects/Furniture/Smithing/Credits.txt
+(coal_piles.png)
+
+Coal Pile
+-------------------
+  ARTIST(S): BlueCarrot16
+  SOURCE: https://opengameart.org/content/lpc-blacksmith
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot. Recolored by Eliza Wyatt.
+
+=== Objects/Small Items/Credits.txt
+(baskets.png, boxes.png, buckets.png, dishes.png, dungeon.png, flowers.png, hay.png, kitchen_clutter.png, lamps_table.png, papers.png, hearth_tools.png, skeletons.png)
+
+Baskets
+-------------------
+  ARTIST(S): BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-tailor
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by BlueCarrot16. Fabric rolls removed and back filled in by Eliza Wyatt. Recolors by Eliza Wyatt.
+
+Boxes
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Buckets
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+Dishes
+-------------------
+  ARTIST(S): Richard Kettering (Jetrel), BlueCarrot16, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/rpg-item-set
+  SOURCE: https://opengameart.org/content/lpc-meals
+  LICENSE: OGA-BY 3.0 (Original art CC0)
+  DETAILS: 
+	Top Row: Original by Richard Kettering. Recolored by BlueCarrot16 and Eliza Wyatt.
+	Second Row: Original by Eliza Wyatt.
+
+Dungeon Elements
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
+
+Flowers
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Single flower, bouquet, large vase by Lanea Zimmerman. Potted shrub base, small vase by Eliza Wyatt. Recolored by Eliza Wyatt.
+
+Hay & Straw
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Edited and recolored by Eliza Wyatt.
+
+Kitchen Clutter
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Hyptosis, Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  SOURCE: https://opengameart.org/content/mage-city-arcanos
+  LICENSE: OGA-BY 3.0
+  DETAILS:
+	Row 1 & 2: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
+	Row 3 & 4: Original by Hyptosis. Recolored by Eliza Wyatt.
+	Row 5: Original by Eliza Wyatt.
+
+Lighting, Tabletop
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: 
+	Top Row: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+	Row 2+: Original by Eliza Wyatt.
+
+Loose Paper
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling)
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Eliza Wyatt.
+
+Fireplace Accessories
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-fireplace
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Adjustments and recolors by Eliza Wyatt.
+
+Skeletons
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolored by Eliza Wyatt.
+
+=== Structure/Fences/Credits.txt
+(fence_iron.png)
+
+Ornamental Fence B
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Adapted to a tiling fence set and recolored by Eliza Wyatt.
+
+=== Structure/Pillars/Credits.txt
+(pillar_stone.png)
+
+Stone Pillar A
+-------------------
+  ARTIST(S): Lanea Zimmerman (aka Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Variations and recolors by Eliza Wyatt.
+
+=== Structure/Misc/Credits.txt
+(fountain.png)
+
+Fountain A
+--------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-arabic-elements
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+
+=== Terrain/Credits.txt
+(trees_autumn.png, trees_winter.png)
+
+Trees (all seasons)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original trees by Lanea Zimmerman. Leafless tree and thick trunk by Eliza Wyatt. Reconfigured and recolored by Eliza Wyatt.
+
 === Older LPC sheets (2012 Liberated Pixel Cup and later submissions), not LPC Revised
 
 beds_single.png (child beds)
@@ -1087,6 +1269,106 @@ curios.png (the objects: Source and decoys; cut by tools/cut_curios.py)
     LPC Submissions Merged 2.0. LICENSE: CC-BY 3.0
   Chest: Tuomo Untinen, "items1", LPC Submissions Merged 2.0. LICENSE: CC-BY 3.0
 
+walls_extra.png (panelling, brick, stone and damask wall faces; cut by tools/make_walls.py)
+-------------------
+  ARTIST(S): bluecarrot16, Lanea Zimmerman (Sharm), Daniel Armstrong (HughSpectrum), William Thompson (William.Thompsonj), Hyptosis, Zabin, Daniel Cook, Guido Bos, SpiderDave, Cougarmint, Stephen Challener (Redshrike), Matthew Nash, Wolthera van Hövell tot Westerflier (TheraHedwig), Reemax, bleutailfly, NaRNeRZz, Sir Spummington, Casper Nilsson, KnoblePersona
+  SOURCE: "[LPC] Walls" (OpenGameArt; the pack page URL is not recorded yet)
+  LICENSE: CC-BY-SA 3.0
+  The pack's full list of sources is in its CREDITS-walls.txt (kept in ~/Downloads/lpc-walls).
+
+=== Derivative: luggage.png (tools/make_luggage.py) ===
+
+Doctor's bag, carpet bag, hat box, valise
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling), BlueCarrot16, Hyptosis
+  LICENSE: OGA-BY 3.0
+  DETAILS: Derivative edit for this game. Kitbashed from LPC Revised sheets already
+  in this folder. No new colours, no scaled or blended pixels.
+  Leather and the open interior: chest.png (Chest; original large chests by Lanea
+  Zimmerman, smaller chests and recolors by Eliza Wyatt;
+  SOURCE: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles)
+  and the darker cabinet browns on cabinets.png (Cabinet; original by Lanea Zimmerman,
+  recolors by Eliza Wyatt; SOURCE: https://opengameart.org/content/lpc-modified-base-tiles).
+  The shading follows the chest: lighter top, darker front, dark outline.
+  Brass clasp, corners and buckles: lamps_table.png (Lighting, Tabletop; original by
+  Lanea Zimmerman, adjustments and recolors by Eliza Wyatt). The same brass is on
+  clock_grandfather.png.
+  Carpet body and the hat-box ribbon: a fold of curtains.png (Curtains; original by
+  Lanea Zimmerman and BlueCarrot16, expanded and recolored by Eliza Wyatt;
+  SOURCE: https://opengameart.org/content/lpc-upholstery), tiled, with leather trim.
+  Hat box: boxes.png box_round (Boxes; original by Eliza Wyatt) with that ribbon.
+  Bottles in the open bag: cropped from kitchen_clutter.png (Kitchen Clutter; Lanea
+  Zimmerman, Hyptosis, Eliza Wyatt).
+=== end luggage.png ===
+
+=== Derivative: bookcases_tall.png (tools/make_tall_bookcases.py) ===
+
+Tall library bookcases
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Derivative edit for this game. Double-tall bookcases kitbashed from the
+  LPC Revised Cabinet sheet (cabinets.png; original by Lanea Zimmerman, recolors by
+  Eliza Wyatt) and, for the ladder variant, the LPC Revised Ladder sheet (ladder.png;
+  original by Lanea Zimmerman, recolors by Eliza Wyatt). Same credits as Cabinet and
+  Ladder above. Pixels and colours are cropped from those sheets only: the carcass is
+  the cabinet bookcase extended by repeating its shelf bay under a single cornice,
+  and the book rows are rearranged. No new colours.
+
+=== Derivative: wallpaper_victorian.png (tools/make_wallpapers.py) ===
+
+Victorian wallpapers (regency stripes, pinstripes, floral trails, dado, haunted)
+-------------------
+  ARTIST(S): Eliza Wyatt (DeathsDarling), Lanea Zimmerman (Sharm)
+  SOURCE: LPC Revised Structure/Walls (github.com/ElizaWy/LPC). Striped Wallpaper A is
+  Eliza Wyatt's original (OGA-BY 3.0, no separate page). Floral Wallpaper A and
+  Half-Wall Paneling A: https://opengameart.org/content/lpc-interior-castle-tiles
+  Painted Walls: https://opengameart.org/content/lpc-modified-base-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Derivative edit for this game. New faces recombined from LPC Revised
+  Structure/Walls sheets already in this folder. Stripes, beads and shade steps use
+  only colours taken from Striped Wallpaper A (wallpaper_striped_a.png; original by
+  Eliza Wyatt) and Painted Walls (wallpaper_painted.png; original by Lanea Zimmerman,
+  recolors by Eliza Wyatt). The floral trail and the floral recolors are the damask
+  cell of Floral Wallpaper A (wallpaper_floral_a.png; original by Lanea Zimmerman,
+  recolors by Eliza Wyatt), with its colours swapped for other colours from those
+  sheets. The oxblood dado's wainscot is Half-Wall Paneling A
+  (half_wall_paneling.png; original by Lanea Zimmerman, recolors by Eliza Wyatt;
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles; LICENSE: OGA-BY 3.0).
+  The wood top shadow, chair rail and skirting are copied unchanged from Striped
+  Wallpaper A. No new colours, no blended pixels.
+
+Half-Wall Paneling A (half_wall_paneling.png)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm), Eliza Wyatt (DeathsDarling)
+  SOURCE: https://opengameart.org/content/lpc-interior-castle-tiles
+  LICENSE: OGA-BY 3.0
+  DETAILS: Original by Lanea Zimmerman. Recolors by Eliza Wyatt.
+  Kept as the source for the dado wainscot in wallpaper_victorian.png.
+
+Culvert pieces (culvert.png)
+-------------------
+  ARTIST(S): Lanea Zimmerman (Sharm)
+  SOURCE: https://opengameart.org/content/lpc-dungeon-elements (dungeon.png: the brick arch and the drain covers)
+          and the LPC base tiles ("darkish green water brackish.png"), both as found in "LPC Submissions Merged 2.0"
+  LICENSE: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 (per that pack's Final Attribution.txt)
+  DETAILS: Assembled by tools/make_culvert.py: the arch's open mouth filled dark, iron bars drawn
+  across one copy, the water tiles laid out as a channel and a pool. Original LPC art, not
+  LPC Revised: a little more saturated than the rest of the house.
+
+Plain stairs (stairs_plain.png)
+-------------------
+  A copy of stairs_wood.png (LPC Revised Structure/Stairs; credits as that sheet) with the
+  runner's reds and the stair-rods' golds swapped for the sheet's own wood browns, by
+  tools/make_plain_stairs.py. No new colours.
+
+Toy boat (toy_boat.png, and the last cell of curios.png)
+-------------------
+  Drawn for this game by tools/make_toy_boat.py (no LPC sheet has a toy boat), in the LPC style:
+  colours taken from the project's own LPC sheets (stairs_wood.png, the dresser woods, the
+  wallpapers' cream) and the LPC dark outline. No LPC pixels copied.
+
 =================== assets/characters/CREDITS.csv
 
 character,file,authors,licenses,urls
@@ -1122,10 +1404,39 @@ tobias_rook,torso/clothes/vest/male/gray.png,Michael Whitlock (bigbeargames); bl
 tobias_rook,torso/jacket/frock,bluecarrot16,CC-BY-SA 3.0,https://opengameart.org/content/lpc-pirates
 tobias_rook,neck/tie/necktie,JaidynReiman; bluecarrot16; Thane Brimhall (pennomi); laetissima; Makrohn,CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman
 tobias_rook,weapon/sword/rapier,Johannes Sjölund (wulax); bluecarrot16,OGA-BY 3.0; CC-BY-SA 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-extended-weapon-animations
+silas_hartley,body/bodies/male,bluecarrot16; JaidynReiman; Benjamin K. Smith (BenCreating); Evert; Eliza Wyatt (ElizaWy); TheraHedwig; MuffinElZangano; Durrani; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases
+silas_hartley,body/bodies/female,Benjamin K. Smith (BenCreating); bluecarrot16; TheraHedwig; Evert; MuffinElZangano; Durrani; Pierre Vigier (pvigier); ElizaWy; Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-revised-character-basics https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+silas_hartley,body/bodies/muscular,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Sander Frenken (castelonia); Benjamin K. Smith (BenCreating); Eliza Wyatt (ElizaWy); dalonedrau; Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-barbarian-sprite-base https://opengameart.org/content/lpc-muscular-swing-animation https://opengameart.org/content/lpc-muscular-hurt-animation https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+silas_hartley,body/bodies/teen,bluecarrot16; Evert; TheraHedwig; Benjamin K. Smith (BenCreating); MuffinElZangano; Durrani; Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-teen-unisex-base-clothes https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded
+silas_hartley,body/bodies/pregnant,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Benjamin K. Smith (BenCreating); Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+silas_hartley,body/bodies/child,bluecarrot16; Benjamin K. Smith (BenCreating); ElizaWy; MuffinElZangano; Durrani; Nila122; kheftel; Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-child-standing-template https://opengameart.org/content/lpc-children-walk-animation https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-jump-expanded
+silas_hartley,head/heads/human/male_elderly,Benjamin K. Smith (BenCreating); Eliza Wyatt (ElizaWy); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-revised-elders https://opengameart.org/content/lpc-character-bases
+silas_hartley,hair/balding,ElizaWy,OGA-BY 3.0,https://opengameart.org/content/lpc-hair
+silas_hartley,beards/mustache/walrus,ElizaWy,OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Hair https://opengameart.org/content/lpc-expanded-sit-run-jump-more
+silas_hartley,torso/clothes/longsleeve/formal,bluecarrot16; Thane Brimhall (pennomi); laetissima; Stephen Challener (Redshrike); Johannes Sjölund (wulax),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman
+silas_hartley,legs/formal,bluecarrot16; JaidynReiman; ElizaWy; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman https://opengameart.org/content/lpc-expanded-pants
+silas_hartley,legs/formal/thin,bluecarrot16; JaidynReiman; ElizaWy; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman https://opengameart.org/content/lpc-expanded-pants
+silas_hartley,feet/shoes,JaidynReiman; bluecarrot16; Johannes Sjölund (wulax),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites http://opengameart.org/content/lpc-clothing-updates https://opengameart.org/content/lpc-expanded-socks-shoes
+silas_hartley,feet/shoes/basic/thin,JaidynReiman; Joe White; Johannes Sjölund (wulax),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-medieval-fantasy-character-sprites http://opengameart.org/content/lpc-clothing-updates https://opengameart.org/content/lpc-expanded-socks-shoes
+silas_hartley,torso/clothes/vest,bluecarrot16; Thane Brimhall (pennomi); laetissima; Stephen Challener (Redshrike); Johannes Sjölund (wulax),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman https://opengameart.org/content/lpc-pirates
+silas_hartley,torso/clothes/vest/male/gray_striped.png,Michael Whitlock (bigbeargames); bluecarrot16; Thane Brimhall (pennomi); laetissima,CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters
+silas_hartley,torso/clothes/vest/male/gray.png,Michael Whitlock (bigbeargames); bluecarrot16; Thane Brimhall (pennomi); laetissima,CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters
+silas_hartley,neck/tie/bowtie,JaidynReiman; bluecarrot16; Thane Brimhall (pennomi); laetissima; Makrohn,CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-2-characters https://opengameart.org/content/lpc-gentleman
+silas_hartley,facial/glasses/halfmoon,ElizaWy,OGA-BY 3.0,https://github.com/ElizaWy/LPC/tree/main/Characters/Head%20Accessories https://opengameart.org/content/lpc-expanded-sit-run-jump-more
 ghost_zombie,body/bodies/zombie,Stephen Challener (Redshrike); Johannes Sjölund (wulax); Sander Frenken (castelonia); Benjamin K. Smith (BenCreating); bluecarrot16,OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-zombie https://opengameart.org/content/lpc-character-bases
 ghost_zombie,head/heads/zombie,bluecarrot16; Benjamin K. Smith (BenCreating); Sander Frenken (castelonia); Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-zombie https://opengameart.org/content/lpc-character-bases
 ghost_skeleton,body/bodies/skeleton,bluecarrot16; Napsio; JaidynReiman; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-skeleton https://opengameart.org/content/lpc-character-bases
 ghost_skeleton,head/heads/skeleton,bluecarrot16; Napsio; JaidynReiman; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-skeleton https://opengameart.org/content/lpc-character-bases
+ghost_child,body/bodies/male,bluecarrot16; JaidynReiman; Benjamin K. Smith (BenCreating); Evert; Eliza Wyatt (ElizaWy); TheraHedwig; MuffinElZangano; Durrani; Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-runcycle-for-male-muscular-and-pregnant-character-bases-with-modular-heads https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases
+ghost_child,body/bodies/female,Benjamin K. Smith (BenCreating); bluecarrot16; TheraHedwig; Evert; MuffinElZangano; Durrani; Pierre Vigier (pvigier); ElizaWy; Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-revised-character-basics https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+ghost_child,body/bodies/muscular,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Sander Frenken (castelonia); Benjamin K. Smith (BenCreating); Eliza Wyatt (ElizaWy); dalonedrau; Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-barbarian-sprite-base https://opengameart.org/content/lpc-muscular-swing-animation https://opengameart.org/content/lpc-muscular-hurt-animation https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-character-bases https://opengameart.org/content/lpc-male-jumping-animation-by-durrani
+ghost_child,body/bodies/teen,bluecarrot16; Evert; TheraHedwig; Benjamin K. Smith (BenCreating); MuffinElZangano; Durrani; Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-teen-unisex-base-clothes https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-revised-character-basics https://opengameart.org/content/lpc-be-seated https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded
+ghost_child,body/bodies/pregnant,bluecarrot16; JaidynReiman; Evert; TheraHedwig; MuffinElZangano; Durrani; Benjamin K. Smith (BenCreating); Pierre Vigier (pvigier); Eliza Wyatt (ElizaWy); Matthew Krohn (makrohn); Johannes Sjölund (wulax); Stephen Challener (Redshrike),CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-medieval-fantasy-character-sprites https://opengameart.org/content/lpc-ladies https://opengameart.org/content/lpc-pregnancy-bases-maternity-wear https://opengameart.org/content/lpc-7-womens-shirts https://opengameart.org/content/lpc-jump-expanded https://gitlab.com/vagabondgame/lpc-characters https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle
+ghost_child,body/bodies/child,bluecarrot16; Benjamin K. Smith (BenCreating); ElizaWy; MuffinElZangano; Durrani; Nila122; kheftel; Stephen Challener (Redshrike),OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles https://opengameart.org/content/lpc-child-standing-template https://opengameart.org/content/lpc-children-walk-animation https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-male-jumping-animation-by-durrani https://opengameart.org/content/lpc-jump-expanded https://opengameart.org/content/lpc-jump-expanded
+ghost_child,head/heads/human/child,Stephen Challener (Redshrike); kheftel; bluecarrot16,OGA-BY 3.0; CC-BY 3.0; GPL 3.0,https://opengameart.org/content/ https://opengameart.org/content/lpc-child-standing-template https://opengameart.org/content/lpc-character-bases
+ghost_child,hair/parted_side_bangs,JaidynReiman,OGA-BY 3.0+; CC-BY 3.0+; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-1-hairstyle-2-hair-extensions-3-previously-unofficially-released-hairstyles https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24
+ghost_child,torso/clothes/shirt/child,Nila122,OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-clothes-for-children
+ghost_child,legs/pants/child,Nila122,OGA-BY 3.0; CC-BY-SA 3.0; GPL 3.0,https://opengameart.org/content/lpc-clothes-for-children
 
 =================== assets/sound/CREDITS.txt
 
@@ -1156,6 +1467,27 @@ whispers/ (six short whispers), laughs/ (one laugh)
   Generated by the project owner with an AI sound generator (2026-11-22), levelled by
   tools/import_sounds.py. Before any shared build, check that generator's terms for the plan
   used: some free plans ask for a credit to the generator.
+
+child/ (Albie, Hollins Cut: run_00-04, giggle_00-02)
+-------------------
+  Freesound HQ previews collected by the project owner 2026-11-27 (child_sfx download), cut and
+  levelled by tools/import_child_sfx.py. The originals need a free Freesound account; swap them
+  in before a shared build if the previews sound thin.
+  run_00-03: "19. Pasos niña ver2.wav" by lemigoga, https://freesound.org/people/lemigoga/sounds/427739/ , CC0 1.0
+  run_04: "021 pasos corriendo sobre madera nino 2.wav" by holisoysilvi, https://freesound.org/people/holisoysilvi/sounds/610175/ , CC0 1.0
+  giggle_00: "Creepy Child Giggle with Reverb" by wolfdoctor, https://freesound.org/people/wolfdoctor/sounds/578760/ , CC-BY 4.0 (cut and levelled)
+  giggle_01: "scary laughing sound effect 2 Rea.wav" by reasanka, https://freesound.org/people/reasanka/sounds/347912/ , CC0 1.0
+  giggle_02: "Sinister child laughing 1.wav" by alexkandrell (from a recording by ashjenx, CC0),
+    https://freesound.org/people/alexkandrell/sounds/168418/ , CC-BY 3.0 (cut and levelled)
+
+child/ (round 2: cry_00-02, sob_00-01, drain_loop)
+-------------------
+  Freesound HQ previews from the project owner's child_sfx_2 download (2026-11-27), cut and levelled by
+  tools/import_child_sfx.py (the drain crossfaded into a loop).
+  cry_00: "Ghost Crying" by evi1r0n, https://freesound.org/people/evi1r0n/sounds/818277/ , CC-BY 4.0 (cut and levelled)
+  cry_01-02: "kid.tantrum.mp3" by dobroide, https://freesound.org/people/dobroide/sounds/8109/ , CC-BY 4.0 (cut and levelled)
+  sob_00-01: "2. Child Crying – Broken Sobs" by LUISCAVAR (8va Sinfonía Studio), https://freesound.org/people/LUISCAVAR/sounds/879848/ , CC-BY 4.0 (cut and levelled)
+  drain_loop: "Kitchen Sink_Emptied out 2 (hydrophone).wav" by KaleidacousticsAudio, https://freesound.org/people/KaleidacousticsAudio/sounds/628985/ , CC0 1.0 (cut, levelled, looped)
 
 =================== assets/brand/fonts/OFL-IMFellEnglishSC.txt
 
@@ -1260,6 +1592,102 @@ Copyright 2017 The Playfair Display Project Authors (https://github.com/clausegg
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+=================== assets/brand/fonts/OFL-PlaywriteAUVIC.txt
+
+Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
 
 
 -----------------------------------------------------------
